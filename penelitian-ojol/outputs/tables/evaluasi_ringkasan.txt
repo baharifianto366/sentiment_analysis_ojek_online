@@ -1,0 +1,7 @@
+model_dievaluasi: ['TF-IDF + SVM', 'TF-IDF + Naive Bayes', 'Word2Vec + SVM', 'FastText + SVM', 'IndoBERT']
+model_terbaik_uji: IndoBERT
+macro_f1_uji: 0.6779 (CI 0.6582-0.6971)
+tidak_berbeda_nyata_dari_terbaik: []
+terbaik_validasi: IndoBERT
+bootstrap: 2000
+md5_split: 9293f50b915b740cb7de8786d687febd

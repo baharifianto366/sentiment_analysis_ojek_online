@@ -1,0 +1,7 @@
+algoritma,strategi,param_terbaik,cv_f1_macro,cv_sd,val_f1_macro,val_akurasi,val_f1_netral,detik
+svm,tanpa,"{""clf__C"": 0.1, ""tfidf__min_df"": 2}",0.5712,0.0048,0.5742,0.8466,0.0,5.9
+svm,bobot_kelas,"{""clf__C"": 1.0, ""tfidf__min_df"": 2}",0.5762,0.0076,0.602,0.8483,0.0667,0.4
+svm,oversampling,"{""clf__estimator__C"": 0.1, ""tfidf__min_df"": 2}",0.5925,0.0137,0.6169,0.8304,0.1274,0.4
+nb,tanpa,"{""clf__alpha"": 1.0, ""tfidf__min_df"": 2}",0.5787,0.0018,0.5807,0.8557,0.0,0.3
+nb,bobot_kelas,"{""clf__alpha"": 0.1, ""tfidf__min_df"": 2}",0.5837,0.0185,0.6077,0.8233,0.1043,0.3
+nb,oversampling,"{""clf__estimator__alpha"": 1.0, ""tfidf__min_df"": 2}",0.5852,0.011,0.6049,0.7932,0.1316,0.3

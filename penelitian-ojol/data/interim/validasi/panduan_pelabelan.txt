@@ -1,0 +1,28 @@
+PANDUAN PELABELAN SENTIMEN (baca sebelum mulai)
+
+Tujuan: menilai sentimen yang diungkapkan oleh TEKS ulasan, bukan jumlah bintangnya.
+Anda tidak diberi rating. Jangan menebak-nebak rating; nilai isi teksnya saja.
+
+Pilih SATU label untuk setiap ulasan:
+  positif : pengguna puas, senang, memuji, atau menceritakan pengalaman yang baik.
+  negatif : pengguna mengeluh, kecewa, marah, atau menceritakan masalah / pengalaman buruk.
+  netral  : pertanyaan, informasi, atau saran tanpa kecenderungan puas/kecewa yang jelas,
+            atau pujian dan keluhan yang benar-benar seimbang.
+
+Aturan untuk kasus sulit:
+  1. Sarkasme / ironi: nilai sentimen yang SEBENARNYA dimaksud.
+     Contoh: "bagus banget nunggu 2 jam" = negatif.
+  2. Campuran: pilih sentimen yang dominan atau paling kuat. Bila benar-benar seimbang = netral.
+  3. Permintaan atau saran tanpa emosi ("tolong tambah fitur X") = netral.
+     Bila disertai kekecewaan ("... dari dulu tidak ada, payah") = negatif.
+  4. Slang, typo, campur bahasa: nilai maknanya. Bila tidak dapat dipahami, pilih netral
+     dan isi kolom 'Ragu?' dengan 'ya'.
+  5. Pujian atau keluhan untuk driver, tarif, promo, fitur, maupun aplikasi sama-sama dihitung.
+     Yang dinilai adalah sikap pengguna secara keseluruhan.
+  6. Bila teks menyebut jumlah bintang ("kasih bintang 1"), perlakukan sebagai bagian dari teks,
+     tetapi tetap nilai keseluruhan isinya.
+  7. JANGAN berdiskusi dengan penilai lain sebelum kedua file dikumpulkan.
+
+Kolom 'Ragu?': isi 'ya' bila Anda tidak yakin (tetap pilih satu label).
+Kolom 'Catatan' (opsional): mis. 'sarkasme', 'campur bahasa', 'tidak jelas'.
+Jangan mengubah kolom 'Kode' dan jangan mengurutkan ulang baris.

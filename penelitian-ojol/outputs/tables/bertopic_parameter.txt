@@ -1,0 +1,10 @@
+model_embedding: paraphrase-multilingual-MiniLM-L12-v2
+umap: n_neighbors=15, n_components=5, min_dist=0.0, metric=cosine, random_state=42
+hdbscan: min_cluster_size=80, min_samples=10, metode=eom, paket=hdbscan
+nr_topics: None
+kosakata_topik: min_df=5, max_df=0.5
+n_ulasan: 29603
+n_topik: 61
+persen_outlier: 32.8
+c_v: 0.4845
+nmi_vs_lda: 0.24354174510015528

@@ -1,0 +1,20 @@
+{
+  "waktu": "2026-11-16 18:27:11",
+  "seed": 42,
+  "rasio": [
+    0.8,
+    0.1,
+    0.1
+  ],
+  "strata": "label_app",
+  "n": 29603,
+  "n_per_split": {
+    "train": 23682,
+    "test": 2961,
+    "val": 2960
+  },
+  "label_sementara": false,
+  "n_tervalidasi": 504,
+  "md5_split_csv": "9293f50b915b740cb7de8786d687febd",
+  "selisih_proporsi_maks_poin": 0.028
+}

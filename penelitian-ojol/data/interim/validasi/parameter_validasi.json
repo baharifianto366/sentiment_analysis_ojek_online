@@ -1,0 +1,19 @@
+{
+  "waktu_buat": "2026-11-09 11:20:02",
+  "strategi": "berstrata",
+  "seed": 42,
+  "ukuran_per_stratum": 56,
+  "n_sampel": 504,
+  "n_populasi": 29603,
+  "populasi_strata": {
+    "Gojek|negatif": 4821,
+    "Gojek|netral": 572,
+    "Gojek|positif": 4524,
+    "Grab|negatif": 3986,
+    "Grab|netral": 600,
+    "Grab|positif": 5283,
+    "Maxim|negatif": 2026,
+    "Maxim|netral": 405,
+    "Maxim|positif": 7386
+  }
+}

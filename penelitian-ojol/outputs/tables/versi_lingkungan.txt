@@ -1,0 +1,12 @@
+Python 3.11.9 | Windows-10-10.0.26200-SP0
+pandas: 3.0.6
+numpy: 2.4.6
+scikit-learn: 1.9.1
+gensim: 4.4.0
+bertopic: 0.17.4
+sentence-transformers: 6.1.0
+umap-learn: 0.5.12
+hdbscan: 0.8.44
+google-play-scraper: 1.2.7
+torch: 2.14.1
+transformers: 5.20.1

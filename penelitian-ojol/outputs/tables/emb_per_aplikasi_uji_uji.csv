@@ -1,0 +1,7 @@
+model,app,n,n_netral,f1_macro,f1_netral,akurasi
+Word2Vec (skip-gram),Gojek,993,54,0.5486,0.0769,0.7593
+Word2Vec (skip-gram),Grab,987,56,0.5597,0.023,0.7943
+Word2Vec (skip-gram),Maxim,981,36,0.5669,0.0364,0.8542
+FastText (skip-gram),Gojek,993,54,0.5429,0.163,0.6546
+FastText (skip-gram),Grab,987,56,0.5662,0.1845,0.69
+FastText (skip-gram),Maxim,981,36,0.5615,0.1279,0.8002

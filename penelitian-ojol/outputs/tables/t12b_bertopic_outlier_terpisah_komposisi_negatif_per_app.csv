@@ -1,0 +1,143 @@
+﻿app,topik_nama_raw,persen_dari_negatif_app
+Gojek,outlier,40.921242031667695
+Gojek,T0 Lama dapat driver & sulit membatalkan pesanan,18.445404071560763
+Gojek,T1 Ulasan campuran (suka & keluhan umum),7.361710878058811
+Gojek,T6 Masalah pembayaran & saldo,4.955788607855234
+Gojek,T3 Manfaat aplikasi vs error/lemot,3.824799506477483
+Gojek,T12 Iklan mengganggu,3.269586674892042
+Gojek,"T9 Masalah akun, login & OTP",2.6732469668928642
+Gojek,T21 Ongkir mahal (food/mart),2.1180341353074237
+Gojek,"T17 Driver sulit didapat, jauh & minta cancel",1.9329631914456098
+Gojek,T19 Tarif mahal & denda,1.7890191239975324
+Gojek,T22 Sulit dapat driver saat hujan,1.439440674480773
+Gojek,T54 Customer service & komplain,1.2543697306189596
+Gojek,T23 Update aplikasi yang memaksa,1.1515525395846187
+Gojek,T16 Perilaku driver (campuran),1.1104256631708822
+Gojek,"T48 Gangguan jaringan, koneksi & lemot",1.0487353485502777
+Gojek,T20 Maps & rute driver tidak akurat,1.0281719103434095
+Gojek,T14 Layanan pesan antar makanan,0.9459181575159367
+Gojek,T52 Voucher & diskon tidak bisa dipakai,0.5552128315854411
+Gojek,T58 Lama mencari driver,0.5552128315854411
+Gojek,T11 Akurasi maps & titik jemput,0.431832202344232
+Gojek,T43 Sulit menemukan alamat,0.41126876413736374
+Gojek,T57 Pembatalan & masalah pesanan makanan,0.39070532593049556
+Gojek,T18 Promo banyak & menarik,0.3701418877236274
+Gojek,T41 Pemberian bintang/rating,0.32901501130989097
+Gojek,T32 Diskon (minta diperbanyak),0.30845157310302285
+Gojek,T45 Titik lokasi penjemputan tidak akurat,0.22619782027555008
+Gojek,T56 Perbandingan harga dengan kompetitor,0.14394406744807733
+Gojek,"T2 Kepuasan umum: baik, ramah, sopan",0.14394406744807733
+Gojek,T8 Tarif murah & terjangkau,0.10281719103434094
+Gojek,T4 Terima kasih & doa untuk driver,0.08225375282747274
+Gojek,T28 Aplikasi transportasi online bermanfaat,0.061690314620604564
+Gojek,T5 Pelayanan baik & memuaskan,0.061690314620604564
+Gojek,T30 Terbaik & termurah,0.061690314620604564
+Gojek,T38 Semangat & dukungan untuk driver,0.04112687641373637
+Gojek,T31 Mobil bersih & nyaman,0.04112687641373637
+Gojek,T26 Tepat waktu & penjemputan,0.04112687641373637
+Gojek,T33 Cara bawa motor nyaman & aman,0.04112687641373637
+Gojek,T37 Abang driver baik & sabar,0.04112687641373637
+Gojek,"T24 Mudah, simpel & praktis",0.04112687641373637
+Gojek,T25 Driver ramah & baik,0.04112687641373637
+Gojek,T42 Perjalanan nyaman & santai,0.020563438206868186
+Gojek,T27 Sarana transportasi yang membantu,0.020563438206868186
+Gojek,T13 Driver sopan & ramah,0.020563438206868186
+Gojek,T35 Pengiriman & kurir cepat,0.020563438206868186
+Gojek,T7 Aplikasi membantu kebutuhan sehari-hari,0.020563438206868186
+Gojek,T59 Good job & profesional,0.020563438206868186
+Gojek,T40 Driver cepat & ramah,0.020563438206868186
+Gojek,T50 Perjalanan nyaman & lancar,0.020563438206868186
+Gojek,T60 Tepat waktu & ramah,0.020563438206868186
+Gojek,T47 Terbantu & terima kasih,0.020563438206868186
+Grab,outlier,42.82522343594836
+Grab,T0 Lama dapat driver & sulit membatalkan pesanan,17.030784508440913
+Grab,T1 Ulasan campuran (suka & keluhan umum),7.100297914597816
+Grab,T3 Manfaat aplikasi vs error/lemot,3.8728897715988087
+Grab,T12 Iklan mengganggu,3.3763654419066533
+Grab,T6 Masalah pembayaran & saldo,3.1777557100297913
+Grab,"T9 Masalah akun, login & OTP",2.3088381330685204
+Grab,T23 Update aplikasi yang memaksa,1.961271102284012
+Grab,T21 Ongkir mahal (food/mart),1.7130089374379345
+Grab,T19 Tarif mahal & denda,1.5143992055610724
+Grab,"T17 Driver sulit didapat, jauh & minta cancel",1.4399205561072492
+Grab,T14 Layanan pesan antar makanan,1.4150943396226416
+Grab,T11 Akurasi maps & titik jemput,1.2413108242303872
+Grab,T20 Maps & rute driver tidak akurat,1.0923535253227408
+Grab,T57 Pembatalan & masalah pesanan makanan,0.9930486593843099
+Grab,T22 Sulit dapat driver saat hujan,0.9433962264150944
+Grab,T16 Perilaku driver (campuran),0.8440913604766633
+Grab,T52 Voucher & diskon tidak bisa dipakai,0.8192651439920555
+Grab,T58 Lama mencari driver,0.7696127110228401
+Grab,T43 Sulit menemukan alamat,0.7447864945382324
+Grab,T45 Titik lokasi penjemputan tidak akurat,0.6951340615690168
+Grab,T54 Customer service & komplain,0.5710029791459782
+Grab,T18 Promo banyak & menarik,0.5461767626613704
+Grab,"T48 Gangguan jaringan, koneksi & lemot",0.49652432969215493
+Grab,T33 Cara bawa motor nyaman & aman,0.3227408142999007
+Grab,T32 Diskon (minta diperbanyak),0.29791459781529295
+Grab,T56 Perbandingan harga dengan kompetitor,0.24826216484607747
+Grab,T8 Tarif murah & terjangkau,0.1737835153922542
+Grab,"T2 Kepuasan umum: baik, ramah, sopan",0.1737835153922542
+Grab,T26 Tepat waktu & penjemputan,0.1737835153922542
+Grab,T4 Terima kasih & doa untuk driver,0.14895729890764647
+Grab,T35 Pengiriman & kurir cepat,0.12413108242303873
+Grab,T41 Pemberian bintang/rating,0.12413108242303873
+Grab,T5 Pelayanan baik & memuaskan,0.09930486593843098
+Grab,T38 Semangat & dukungan untuk driver,0.09930486593843098
+Grab,T7 Aplikasi membantu kebutuhan sehari-hari,0.07447864945382324
+Grab,"T10 Respons cepat, tepat & akurat",0.07447864945382324
+Grab,T49 Teks otomatis (noise),0.04965243296921549
+Grab,T27 Sarana transportasi yang membantu,0.04965243296921549
+Grab,T36 Driver baik,0.04965243296921549
+Grab,T28 Aplikasi transportasi online bermanfaat,0.024826216484607744
+Grab,"T24 Mudah, simpel & praktis",0.024826216484607744
+Grab,T25 Driver ramah & baik,0.024826216484607744
+Grab,T29 Pelayanan baik & terima kasih,0.024826216484607744
+Grab,"T44 Aman, nyaman & selamat sampai tujuan",0.024826216484607744
+Grab,T34 Pelayanan & driver ramah,0.024826216484607744
+Grab,T13 Driver sopan & ramah,0.024826216484607744
+Grab,T40 Driver cepat & ramah,0.024826216484607744
+Grab,T37 Abang driver baik & sabar,0.024826216484607744
+Maxim,outlier,40.44401544401545
+Maxim,T0 Lama dapat driver & sulit membatalkan pesanan,15.637065637065636
+Maxim,T1 Ulasan campuran (suka & keluhan umum),6.274131274131274
+Maxim,"T9 Masalah akun, login & OTP",5.501930501930502
+Maxim,T3 Manfaat aplikasi vs error/lemot,4.584942084942085
+Maxim,T11 Akurasi maps & titik jemput,4.536679536679537
+Maxim,T6 Masalah pembayaran & saldo,4.295366795366795
+Maxim,"T17 Driver sulit didapat, jauh & minta cancel",2.9922779922779923
+Maxim,T20 Maps & rute driver tidak akurat,2.557915057915058
+Maxim,T19 Tarif mahal & denda,1.4478764478764479
+Maxim,T43 Sulit menemukan alamat,1.2548262548262548
+Maxim,T16 Perilaku driver (campuran),1.2065637065637065
+Maxim,T45 Titik lokasi penjemputan tidak akurat,1.0617760617760617
+Maxim,T57 Pembatalan & masalah pesanan makanan,0.8687258687258688
+Maxim,T22 Sulit dapat driver saat hujan,0.8204633204633204
+Maxim,T23 Update aplikasi yang memaksa,0.7722007722007722
+Maxim,T58 Lama mencari driver,0.5791505791505791
+Maxim,T8 Tarif murah & terjangkau,0.5308880308880308
+Maxim,T14 Layanan pesan antar makanan,0.5308880308880308
+Maxim,"T48 Gangguan jaringan, koneksi & lemot",0.4343629343629344
+Maxim,T33 Cara bawa motor nyaman & aman,0.3861003861003861
+Maxim,T12 Iklan mengganggu,0.33783783783783783
+Maxim,T21 Ongkir mahal (food/mart),0.33783783783783783
+Maxim,"T2 Kepuasan umum: baik, ramah, sopan",0.28957528957528955
+Maxim,T54 Customer service & komplain,0.28957528957528955
+Maxim,T4 Terima kasih & doa untuk driver,0.2413127413127413
+Maxim,T56 Perbandingan harga dengan kompetitor,0.2413127413127413
+Maxim,T30 Terbaik & termurah,0.19305019305019305
+Maxim,T32 Diskon (minta diperbanyak),0.19305019305019305
+Maxim,T60 Tepat waktu & ramah,0.14478764478764478
+Maxim,T26 Tepat waktu & penjemputan,0.14478764478764478
+Maxim,T52 Voucher & diskon tidak bisa dipakai,0.14478764478764478
+Maxim,T25 Driver ramah & baik,0.09652509652509653
+Maxim,T31 Mobil bersih & nyaman,0.09652509652509653
+Maxim,T18 Promo banyak & menarik,0.09652509652509653
+Maxim,"T10 Respons cepat, tepat & akurat",0.09652509652509653
+Maxim,T27 Sarana transportasi yang membantu,0.04826254826254826
+Maxim,T41 Pemberian bintang/rating,0.04826254826254826
+Maxim,T13 Driver sopan & ramah,0.04826254826254826
+Maxim,T40 Driver cepat & ramah,0.04826254826254826
+Maxim,T49 Teks otomatis (noise),0.04826254826254826
+Maxim,T15 Aplikasi memudahkan perjalanan,0.04826254826254826
+Maxim,T28 Aplikasi transportasi online bermanfaat,0.04826254826254826

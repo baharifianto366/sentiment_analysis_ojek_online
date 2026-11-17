@@ -1,0 +1,91 @@
+model,kelas,peringkat,fitur,skor
+svm,negatif,1,tidak,2.3634
+svm,negatif,2,iklan,1.8626
+svm,negatif,3,aplikasi,1.6419
+svm,negatif,4,tidak ramah,1.5817
+svm,negatif,5,buruk,1.5601
+svm,negatif,6,jelek,1.4628
+svm,negatif,7,jam,1.4256
+svm,negatif,8,mending,1.3269
+svm,negatif,9,sangat tidak,1.3156
+svm,negatif,10,malah,1.2896
+svm,negatif,11,tolol,1.2792
+svm,negatif,12,mitra,1.2467
+svm,negatif,13,kecewa,1.2107
+svm,negatif,14,melulu,1.2076
+svm,negatif,15,driver,1.1832
+svm,netral,1,tolong,1.8945
+svm,netral,2,antar tepat,1.366
+svm,netral,3,penilaian,1.3619
+svm,netral,4,jaraknya,1.3356
+svm,netral,5,jalannya,1.3322
+svm,netral,6,kog,1.2895
+svm,netral,7,buat harga,1.2859
+svm,netral,8,buat alamat,1.2849
+svm,netral,9,mohon,1.2731
+svm,netral,10,nyantolnya,1.2709
+svm,netral,11,mahal,1.2599
+svm,netral,12,semangat pak,1.2424
+svm,netral,13,oke oke,1.2423
+svm,netral,14,maps,1.2335
+svm,netral,15,bolt,1.2161
+svm,positif,1,membantu,2.0214
+svm,positif,2,cepat,1.9367
+svm,positif,3,ramah,1.8956
+svm,positif,4,mantap,1.7865
+svm,positif,5,baik,1.7539
+svm,positif,6,bagus,1.7064
+svm,positif,7,oke,1.6083
+svm,positif,8,good,1.517
+svm,positif,9,terima kasih,1.5022
+svm,positif,10,semoga,1.4978
+svm,positif,11,memudahkan,1.4161
+svm,positif,12,terbaik,1.3623
+svm,positif,13,alhamdulillah,1.3449
+svm,positif,14,tidak ribet,1.343
+svm,positif,15,nyaman,1.3326
+nb,negatif,1,tidak berguna,3.6881
+nb,negatif,2,sampah,3.6859
+nb,negatif,3,anj,3.4722
+nb,negatif,4,bot,3.4684
+nb,negatif,5,tidak profesional,3.4215
+nb,negatif,6,makin tidak,3.4199
+nb,negatif,7,gjls,3.3868
+nb,negatif,8,aplikasi tolol,3.3815
+nb,negatif,9,disuruh nunggu,3.286
+nb,negatif,10,orderan tidak,3.2244
+nb,negatif,11,aplikasi sampah,3.1959
+nb,negatif,12,najis,3.166
+nb,negatif,13,bobrok,3.1504
+nb,negatif,14,aplikasi jelek,3.0823
+nb,negatif,15,aplikasi busuk,3.0782
+nb,netral,1,bolt,3.6413
+nb,netral,2,buat harga,3.5899
+nb,netral,3,nyantolnya,3.58
+nb,netral,4,dibawah ongkirnya,3.564
+nb,netral,5,buat alamat,3.5379
+nb,netral,6,dlu soalnya,3.534
+nb,netral,7,beli es,3.4821
+nb,netral,8,dong mapsnya,3.4731
+nb,netral,9,enak sih,3.4236
+nb,netral,10,sudah sistemnya,3.403
+nb,netral,11,fitur penilaian,3.4006
+nb,netral,12,maaih,3.3398
+nb,netral,13,ongkir hemat,3.3375
+nb,netral,14,maps kamu,3.3202
+nb,netral,15,nasinya,3.2852
+nb,positif,1,dan baik,5.4722
+nb,positif,2,kasih pak,5.2151
+nb,positif,3,dan tepat,5.1999
+nb,positif,4,driver ramah,5.1357
+nb,positif,5,sopan dan,5.1216
+nb,positif,6,ramah baik,5.1141
+nb,positif,7,baik banget,5.0866
+nb,positif,8,ramah sopan,5.079
+nb,positif,9,sangat ramah,5.0598
+nb,positif,10,sehat selalu,5.0315
+nb,positif,11,membantu sekali,4.966
+nb,positif,12,rama,4.7592
+nb,positif,13,pelayanan bagus,4.6816
+nb,positif,14,cepat dan,4.6567
+nb,positif,15,sangat baik,4.6553

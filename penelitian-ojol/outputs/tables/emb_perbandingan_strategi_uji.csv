@@ -1,0 +1,7 @@
+embedding,strategi,param_terbaik,cv_f1_macro,cv_sd,val_f1_macro,val_akurasi,val_f1_netral,detik
+w2v,tanpa,"{""clf__C"": 0.01}",0.552,0.0061,0.5529,0.8145,0.0,6.4
+w2v,bobot_kelas,"{""clf__C"": 0.01}",0.5943,0.016,0.5904,0.8051,0.1176,0.5
+w2v,oversampling,"{""clf__estimator__C"": 0.01}",0.5674,0.0082,0.5796,0.7115,0.2003,1.3
+ft,tanpa,"{""clf__C"": 0.1}",0.5488,0.0073,0.5502,0.8115,0.0,0.5
+ft,bobot_kelas,"{""clf__C"": 0.1}",0.5776,0.0176,0.5775,0.8068,0.0788,0.6
+ft,oversampling,"{""clf__estimator__C"": 0.1}",0.5733,0.015,0.5871,0.7247,0.2055,1.2

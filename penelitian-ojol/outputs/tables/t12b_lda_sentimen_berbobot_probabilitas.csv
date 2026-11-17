@@ -1,0 +1,37 @@
+﻿topik,label,massa,persen_dalam_topik,topik_nama
+0,negatif,578.2798,19.40155567462988,T0 Pelayanan baik & memuaskan
+1,negatif,1192.7035,48.932449458429694,T1 Keterlambatan pesanan makanan
+2,negatif,3229.2855,47.9710771120144,"T2 Sulit dapat driver, driver jauh & cancel"
+3,negatif,588.5496,43.755169235712536,T3 Masalah isi saldo dan layanan Customer Service
+4,negatif,600.3934,19.29595721469759,"T4 Perjalanan cepat, tepat waktu, membantu & nyaman"
+5,negatif,791.9319,47.34368619149885,T5 Masalah login/akun & pembayaran
+6,negatif,588.1933,37.426090265224325,"T6 Campuran (kendaraan, cara bawa, pinjaman)"
+7,negatif,488.8861,40.55597190185126,T7 Teks otomatis (noise)
+8,negatif,580.8849,41.2181079992172,T8 Akurasi maps & titik lokasi
+9,negatif,753.035,40.200253084331834,"T9 Harga mahal, ongkir & biaya penanganan"
+10,negatif,404.53499999999997,22.787119907674242,T10 Driver ramah & sopan
+11,negatif,838.3351,49.472481840735966,"T11 Iklan mengganggu, update & error aplikasi"
+0,netral,87.2534,2.9273920650535445,T0 Pelayanan baik & memuaskan
+1,netral,132.51319999999998,5.436552723769809,T1 Keterlambatan pesanan makanan
+2,netral,397.5692,5.9058955148319585,"T2 Sulit dapat driver, driver jauh & cancel"
+3,netral,70.8417,5.2666598914442835,T3 Masalah isi saldo dan layanan Customer Service
+4,netral,94.3439,3.0321050462375307,"T4 Perjalanan cepat, tepat waktu, membantu & nyaman"
+5,netral,94.4539,5.646692349636646,T5 Masalah login/akun & pembayaran
+6,netral,83.7379,5.328150123471872,"T6 Campuran (kendaraan, cara bawa, pinjaman)"
+7,netral,69.01169999999999,5.724925634210071,T7 Teks otomatis (noise)
+8,netral,107.58500000000001,7.633956656638488,T8 Akurasi maps & titik lokasi
+9,netral,105.1469,5.61319459392051,"T9 Harga mahal, ongkir & biaya penanganan"
+10,netral,54.709700000000005,3.0817518731701474,T10 Driver ramah & sopan
+11,netral,113.8223,6.716969944143817,"T11 Iklan mengganggu, update & error aplikasi"
+0,positif,2315.0515,77.67105226031656,T0 Pelayanan baik & memuaskan
+1,positif,1112.2323000000001,45.6309978178005,T1 Keterlambatan pesanan makanan
+2,positif,3104.8797000000004,46.12302737315364,"T2 Sulit dapat driver, driver jauh & cancel"
+3,positif,685.706,50.97817087284317,T3 Masalah isi saldo dan layanan Customer Service
+4,positif,2416.7610999999997,77.67193773906489,"T4 Perjalanan cepat, tepat waktu, membantu & nyaman"
+5,positif,786.3439,47.009621458864515,T5 Masalah login/akun & pembayaran
+6,positif,899.6818000000001,57.245759611303804,"T6 Campuran (kendaraan, cara bawa, pinjaman)"
+7,positif,647.5623999999999,53.71910246393866,T7 Teks otomatis (noise)
+8,positif,720.8254999999999,51.14793534414431,T8 Akurasi maps & titik lokasi
+9,positif,1015.0277,54.18655232174766,"T9 Harga mahal, ongkir & biaya penanganan"
+10,positif,1316.0345,74.13112821915563,T10 Driver ramah & sopan
+11,positif,742.3909,43.81054821512022,"T11 Iklan mengganggu, update & error aplikasi"

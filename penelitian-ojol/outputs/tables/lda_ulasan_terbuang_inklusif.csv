@@ -1,0 +1,7 @@
+kelompok,total,dipakai,persen_terbuang,jenis
+negatif,10833,10509,3.0,label_final
+netral,1577,1520,3.6,label_final
+positif,17193,15780,8.2,label_final
+Gojek,9917,9319,6.0,app
+Grab,9869,9207,6.7,app
+Maxim,9817,9283,5.4,app

@@ -1,0 +1,37 @@
+﻿app,topik_nama,persen_dari_negatif_app
+Gojek,"T2 Sulit dapat driver, driver jauh & cancel",52.61382799325464
+Gojek,T1 Keterlambatan pesanan makanan,11.720067453625632
+Gojek,"T11 Iklan mengganggu, update & error aplikasi",8.07335581787521
+Gojek,T5 Masalah login/akun & pembayaran,7.525295109612141
+Gojek,"T9 Harga mahal, ongkir & biaya penanganan",6.47133220910624
+Gojek,T7 Teks otomatis (noise),4.0893760539629005
+Gojek,T3 Masalah isi saldo dan layanan Customer Service,3.541315345699832
+Gojek,T8 Akurasi maps & titik lokasi,2.0236087689713322
+Gojek,"T6 Campuran (kendaraan, cara bawa, pinjaman)",1.391231028667791
+Gojek,"T4 Perjalanan cepat, tepat waktu, membantu & nyaman",1.1804384485666104
+Gojek,T0 Pelayanan baik & memuaskan,0.927487352445194
+Gojek,T10 Driver ramah & sopan,0.442664418212479
+Grab,"T2 Sulit dapat driver, driver jauh & cancel",53.913491246138
+Grab,T1 Keterlambatan pesanan makanan,13.15653964984552
+Grab,"T11 Iklan mengganggu, update & error aplikasi",9.140061791967044
+Grab,T5 Masalah login/akun & pembayaran,6.642636457260556
+Grab,"T9 Harga mahal, ongkir & biaya penanganan",5.329557157569516
+Grab,T8 Akurasi maps & titik lokasi,3.2955715756951593
+Grab,T3 Masalah isi saldo dan layanan Customer Service,3.1153450051493303
+Grab,"T6 Campuran (kendaraan, cara bawa, pinjaman)",1.9824922760041195
+Grab,T7 Teks otomatis (noise),1.0813594232749741
+Grab,T0 Pelayanan baik & memuaskan,0.9783728115345005
+Grab,"T4 Perjalanan cepat, tepat waktu, membantu & nyaman",0.952626158599382
+Grab,T10 Driver ramah & sopan,0.4119464469618949
+Maxim,"T2 Sulit dapat driver, driver jauh & cancel",59.44195316392625
+Maxim,T5 Masalah login/akun & pembayaran,9.367214748380666
+Maxim,T8 Akurasi maps & titik lokasi,6.87593423019432
+Maxim,T3 Masalah isi saldo dan layanan Customer Service,5.381165919282512
+Maxim,T1 Keterlambatan pesanan makanan,5.381165919282512
+Maxim,"T9 Harga mahal, ongkir & biaya penanganan",3.8863976083707024
+Maxim,"T11 Iklan mengganggu, update & error aplikasi",3.7369207772795217
+Maxim,"T6 Campuran (kendaraan, cara bawa, pinjaman)",1.4947683109118086
+Maxim,T7 Teks otomatis (noise),1.295465869456901
+Maxim,T0 Pelayanan baik & memuaskan,1.2456402590931739
+Maxim,"T4 Perjalanan cepat, tepat waktu, membantu & nyaman",1.096163428001993
+Maxim,T10 Driver ramah & sopan,0.7972097658196312

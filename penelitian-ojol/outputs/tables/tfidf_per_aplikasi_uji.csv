@@ -1,0 +1,7 @@
+model,app,n,n_netral,f1_macro,f1_netral,akurasi
+TF-IDF + SVM (linear),Gojek,993,54,0.6342,0.1831,0.8107
+TF-IDF + SVM (linear),Grab,987,56,0.6506,0.2074,0.8308
+TF-IDF + SVM (linear),Maxim,981,36,0.6719,0.26,0.8848
+TF-IDF + Naive Bayes (multinomial),Gojek,993,54,0.6087,0.1457,0.7865
+TF-IDF + Naive Bayes (multinomial),Grab,987,56,0.6326,0.1939,0.8004
+TF-IDF + Naive Bayes (multinomial),Maxim,981,36,0.6721,0.2569,0.8838

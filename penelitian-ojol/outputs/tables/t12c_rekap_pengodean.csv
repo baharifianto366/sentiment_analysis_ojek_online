@@ -1,0 +1,81 @@
+﻿subset,kode_1,n,bobot,persen_tak_berbobot,persen_berbobot
+semua_sampel,sarkasme/ironi,4,60.662068965517236,4.25531914893617,7.326336831584208
+semua_sampel,campur bahasa,3,11.362068965517242,3.1914893617021276,1.3722305513909714
+semua_sampel,slang/salah ketik,4,37.762068965517244,4.25531914893617,4.560636348492421
+semua_sampel,negasi,3,10.5,3.1914893617021276,1.2681159420289856
+semua_sampel,ulasan sangat pendek/ambigu,13,181.89310344827584,13.829787234042554,21.96776611694153
+semua_sampel,multi-aspek/campuran,20,277.67931034482757,21.27659574468085,33.53614859237049
+semua_sampel,label rating keliru,47,248.14137931034483,50.0,29.96876561719141
+semua_sampel,lainnya,0,0.0,0.0,0.0
+model_salah:tfidf_svm,sarkasme/ironi,3,34.26206896551724,3.7974683544303796,9.255015928016544
+model_salah:tfidf_svm,campur bahasa,3,11.362068965517242,3.7974683544303796,3.069170439091638
+model_salah:tfidf_svm,slang/salah ketik,4,37.762068965517244,5.063291139240507,10.20045082807057
+model_salah:tfidf_svm,negasi,3,10.5,3.7974683544303796,2.836304700162075
+model_salah:tfidf_svm,ulasan sangat pendek/ambigu,8,29.29310344827586,10.126582278481013,7.912777808826544
+model_salah:tfidf_svm,multi-aspek/campuran,13,72.27931034482758,16.455696202531644,19.524395014810263
+model_salah:tfidf_svm,label rating keliru,45,174.74137931034483,56.962025316455694,47.20188528102238
+model_salah:tfidf_svm,lainnya,0,0.0,0.0,0.0
+model_salah:tfidf_nb,sarkasme/ironi,3,34.26206896551724,3.488372093023256,6.173345759552656
+model_salah:tfidf_nb,campur bahasa,3,11.362068965517242,3.488372093023256,2.04721963342653
+model_salah:tfidf_nb,slang/salah ketik,3,11.362068965517242,3.488372093023256,2.04721963342653
+model_salah:tfidf_nb,negasi,3,10.5,3.488372093023256,1.8918918918918919
+model_salah:tfidf_nb,ulasan sangat pendek/ambigu,12,134.89310344827587,13.953488372093023,24.30506368437403
+model_salah:tfidf_nb,multi-aspek/campuran,16,151.47931034482758,18.6046511627907,27.29356943150046
+model_salah:tfidf_nb,label rating keliru,46,201.14137931034483,53.48837209302326,36.241689965827895
+model_salah:tfidf_nb,lainnya,0,0.0,0.0,0.0
+model_salah:emb_w2v_svm,sarkasme/ironi,2,7.862068965517241,2.4096385542168677,1.6523894421011436
+model_salah:emb_w2v_svm,campur bahasa,3,11.362068965517242,3.6144578313253013,2.387992636720732
+model_salah:emb_w2v_svm,slang/salah ketik,4,37.762068965517244,4.819277108433735,7.9365424475656265
+model_salah:emb_w2v_svm,negasi,3,10.5,3.6144578313253013,2.2068095838587642
+model_salah:emb_w2v_svm,ulasan sangat pendek/ambigu,9,55.69310344827586,10.843373493975903,11.705149947094549
+model_salah:emb_w2v_svm,multi-aspek/campuran,16,151.47931034482758,19.27710843373494,31.836761316693483
+model_salah:emb_w2v_svm,label rating keliru,46,201.14137931034483,55.42168674698795,42.27435462596571
+model_salah:emb_w2v_svm,lainnya,0,0.0,0.0,0.0
+model_salah:emb_ft_svm,sarkasme/ironi,2,7.862068965517241,2.5316455696202533,2.1237355390376123
+model_salah:emb_ft_svm,campur bahasa,3,11.362068965517242,3.7974683544303796,3.0691704390916374
+model_salah:emb_ft_svm,slang/salah ketik,4,37.762068965517244,5.063291139240507,10.200450828070569
+model_salah:emb_ft_svm,negasi,3,10.5,3.7974683544303796,2.8363047001620747
+model_salah:emb_ft_svm,ulasan sangat pendek/ambigu,8,29.29310344827586,10.126582278481013,7.912777808826543
+model_salah:emb_ft_svm,multi-aspek/campuran,13,72.27931034482758,16.455696202531644,19.52439501481026
+model_salah:emb_ft_svm,label rating keliru,46,201.14137931034483,58.22784810126582,54.3331656700013
+model_salah:emb_ft_svm,lainnya,0,0.0,0.0,0.0
+model_salah:indobert,sarkasme/ironi,4,60.662068965517236,5.714285714285714,10.000341075752925
+model_salah:indobert,campur bahasa,2,7.862068965517241,2.857142857142857,1.2960878611139532
+model_salah:indobert,slang/salah ketik,3,34.26206896551724,4.285714285714286,5.648214468433438
+model_salah:indobert,negasi,0,0.0,0.0,0.0
+model_salah:indobert,ulasan sangat pendek/ambigu,6,111.59310344827585,8.571428571428571,18.396489193583225
+model_salah:indobert,multi-aspek/campuran,14,187.97931034482758,20.0,30.989005991564056
+model_salah:indobert,label rating keliru,41,204.24137931034483,58.57142857142857,33.66986140955239
+model_salah:indobert,lainnya,0,0.0,0.0,0.0
+kelompok:campuran,sarkasme/ironi,2,52.8,13.333333333333334,13.333333333333336
+kelompok:campuran,campur bahasa,0,0.0,0.0,0.0
+kelompok:campuran,slang/salah ketik,1,26.4,6.666666666666667,6.666666666666668
+kelompok:campuran,negasi,0,0.0,0.0,0.0
+kelompok:campuran,ulasan sangat pendek/ambigu,4,105.6,26.666666666666668,26.66666666666667
+kelompok:campuran,multi-aspek/campuran,7,184.79999999999998,46.666666666666664,46.66666666666667
+kelompok:campuran,label rating keliru,1,26.4,6.666666666666667,6.666666666666668
+kelompok:campuran,lainnya,0,0.0,0.0,0.0
+kelompok:hanya_indobert_benar,sarkasme/ironi,0,0.0,0.0,0.0
+kelompok:hanya_indobert_benar,campur bahasa,1,3.5,5.555555555555555,5.555555555555555
+kelompok:hanya_indobert_benar,slang/salah ketik,1,3.5,5.555555555555555,5.555555555555555
+kelompok:hanya_indobert_benar,negasi,3,10.5,16.666666666666668,16.666666666666668
+kelompok:hanya_indobert_benar,ulasan sangat pendek/ambigu,5,17.5,27.77777777777778,27.77777777777778
+kelompok:hanya_indobert_benar,multi-aspek/campuran,3,10.5,16.666666666666668,16.666666666666668
+kelompok:hanya_indobert_benar,label rating keliru,5,17.5,27.77777777777778,27.77777777777778
+kelompok:hanya_indobert_benar,lainnya,0,0.0,0.0,0.0
+kelompok:hanya_indobert_salah,sarkasme/ironi,0,0.0,0.0,0.0
+kelompok:hanya_indobert_salah,campur bahasa,0,0.0,0.0,0.0
+kelompok:hanya_indobert_salah,slang/salah ketik,0,0.0,0.0,0.0
+kelompok:hanya_indobert_salah,negasi,0,0.0,0.0,0.0
+kelompok:hanya_indobert_salah,ulasan sangat pendek/ambigu,1,47.0,33.333333333333336,33.333333333333336
+kelompok:hanya_indobert_salah,multi-aspek/campuran,1,47.0,33.333333333333336,33.333333333333336
+kelompok:hanya_indobert_salah,label rating keliru,1,47.0,33.333333333333336,33.333333333333336
+kelompok:hanya_indobert_salah,lainnya,0,0.0,0.0,0.0
+kelompok:semua_salah,sarkasme/ironi,2,7.862068965517241,3.4482758620689653,3.4482758620689657
+kelompok:semua_salah,campur bahasa,2,7.862068965517241,3.4482758620689653,3.4482758620689657
+kelompok:semua_salah,slang/salah ketik,2,7.862068965517241,3.4482758620689653,3.4482758620689657
+kelompok:semua_salah,negasi,0,0.0,0.0,0.0
+kelompok:semua_salah,ulasan sangat pendek/ambigu,3,11.793103448275861,5.172413793103448,5.172413793103448
+kelompok:semua_salah,multi-aspek/campuran,9,35.37931034482759,15.517241379310345,15.517241379310347
+kelompok:semua_salah,label rating keliru,40,157.24137931034483,68.96551724137932,68.96551724137932
+kelompok:semua_salah,lainnya,0,0.0,0.0,0.0

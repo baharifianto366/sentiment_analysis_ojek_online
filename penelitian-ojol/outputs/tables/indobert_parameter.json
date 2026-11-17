@@ -1,0 +1,23 @@
+{
+  "model": "indobenchmark/indobert-base-p1",
+  "kolom_teks": "teks_ringan",
+  "max_len": 128,
+  "batch_latih": 32,
+  "lr_diuji": [
+    2e-05
+  ],
+  "strategi_diuji": [
+    "bobot_kelas",
+    "oversampling"
+  ],
+  "terpilih": "bobot_kelas_lr2e-05_s42",
+  "epoch_terbaik": 2,
+  "weight_decay": 0.01,
+  "warmup": 0.1,
+  "seed": 42,
+  "md5_split": "9293f50b915b740cb7de8786d687febd",
+  "uji_coba": false,
+  "torch": "2.14.1+cu130",
+  "transformers": "5.22.1",
+  "amp_fp16": true
+}

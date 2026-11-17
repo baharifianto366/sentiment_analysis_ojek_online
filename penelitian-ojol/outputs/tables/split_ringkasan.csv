@@ -1,0 +1,4 @@
+split,negatif,netral,positif,total
+train,8770,1175,13737,23682
+val,1096,147,1717,2960
+test,1097,146,1718,2961

@@ -1,0 +1,10 @@
+min_kata_bersih: 3
+normalisasi_slang_bersih: True
+normalisasi_slang_ringan: False
+stemming: False
+pertahankan_negasi_di_topik: False
+entri_kamus_slang: 146
+jumlah_stopword: 134
+kosakata_tanpa_kamus: 19377
+kosakata_dengan_kamus: 19212
+jumlah_akhir: 29603

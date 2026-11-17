@@ -1,0 +1,91 @@
+model,kelas,peringkat,fitur,skor
+svm,negatif,1,tidak,1.6547
+svm,negatif,2,malah,1.2525
+svm,negatif,3,jelek,0.9699
+svm,negatif,4,padahal,0.9636
+svm,negatif,5,jam,0.9296
+svm,negatif,6,sudah,0.9092
+svm,negatif,7,tidak bisa,0.8924
+svm,negatif,8,aplikasi,0.8921
+svm,negatif,9,buruk,0.8886
+svm,negatif,10,saja,0.8762
+svm,negatif,11,iklan,0.8489
+svm,negatif,12,pada,0.8342
+svm,negatif,13,lama,0.8337
+svm,negatif,14,kecewa,0.833
+svm,negatif,15,driver,0.8045
+svm,netral,1,lama banget,1.0853
+svm,netral,2,saya kasih,1.0841
+svm,netral,3,terbaik dan,1.0659
+svm,netral,4,pengemudi,1.0617
+svm,netral,5,aplikasi lain,0.9886
+svm,netral,6,tidak tersedia,0.9531
+svm,netral,7,wa,0.9472
+svm,netral,8,promo tidak,0.9438
+svm,netral,9,maps,0.8997
+svm,netral,10,error melulu,0.8889
+svm,netral,11,bagaimana,0.8778
+svm,netral,12,sangat puas,0.8554
+svm,netral,13,menu,0.8338
+svm,netral,14,atau,0.8122
+svm,netral,15,susah,0.8118
+svm,positif,1,ramah,1.5636
+svm,positif,2,mantap,1.3515
+svm,positif,3,bagus,1.2991
+svm,positif,4,baik,1.292
+svm,positif,5,oke,1.1462
+svm,positif,6,membantu,1.1235
+svm,positif,7,cepat,1.1167
+svm,positif,8,terima kasih,1.1
+svm,positif,9,terima,1.0962
+svm,positif,10,semoga,0.8981
+svm,positif,11,mudah,0.851
+svm,positif,12,nyaman,0.8015
+svm,positif,13,sopan,0.7681
+svm,positif,14,memuaskan,0.7455
+svm,positif,15,sangat membantu,0.7416
+nb,negatif,1,malah tidak,3.0375
+nb,negatif,2,buruk,2.9027
+nb,negatif,3,jelek banget,2.7937
+nb,negatif,4,dibatalin,2.712
+nb,negatif,5,goride,2.6627
+nb,negatif,6,setengah,2.6593
+nb,negatif,7,payah,2.6532
+nb,negatif,8,kocak,2.6353
+nb,negatif,9,giliran,2.6031
+nb,negatif,10,mending,2.5996
+nb,negatif,11,buang,2.578
+nb,negatif,12,lelet,2.5094
+nb,negatif,13,minimal,2.4896
+nb,negatif,14,di buka,2.4764
+nb,negatif,15,ujan,2.4575
+nb,netral,1,titik map,3.6131
+nb,netral,2,bagaimana nih,3.4877
+nb,netral,3,mendung atau,3.4708
+nb,netral,4,mendung,3.4708
+nb,netral,5,atau hujan,3.4708
+nb,netral,6,dengan google,3.3043
+nb,netral,7,maps yang,3.2275
+nb,netral,8,yang terlalu,3.2189
+nb,netral,9,map yang,3.2064
+nb,netral,10,tidak tersedia,3.1849
+nb,netral,11,kena cancel,3.1466
+nb,netral,12,langsung saya,3.1419
+nb,netral,13,jauhnya,3.0812
+nb,netral,14,updatenya,3.0785
+nb,netral,15,dari pembeli,3.0783
+nb,positif,1,mantap,4.6461
+nb,positif,2,baik dan,4.3953
+nb,positif,3,sangat baik,4.1691
+nb,positif,4,cepat dan,4.1657
+nb,positif,5,dan ramah,4.0671
+nb,positif,6,sangat membantu,4.0295
+nb,positif,7,sangat ramah,3.8597
+nb,positif,8,alhamdulillah,3.8516
+nb,positif,9,dan baik,3.7092
+nb,positif,10,the,3.6384
+nb,positif,11,terima kasih,3.6342
+nb,positif,12,ramah,3.6176
+nb,positif,13,dan nyaman,3.5932
+nb,positif,14,driver ramah,3.573
+nb,positif,15,baik ramah,3.5678

@@ -1,0 +1,10 @@
+# File model dan embedding berukuran besar
+*.model
+*.joblib
+*.safetensors
+*.npy
+*.state
+*.id2word
+
+# Folder hasil model
+penelitian-ojol/outputs/models/

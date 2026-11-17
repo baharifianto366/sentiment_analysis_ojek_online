@@ -1,0 +1,7 @@
+waktu_sampling: 2026-10-21 11:14:53
+periode: 2024-01-01 s.d. 2026-12-31
+min_kata: 3
+target_per_aplikasi: 10000
+strategi: acak_periode
+buang_duplikat_teks: True
+seed: 42

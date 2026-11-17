@@ -1,0 +1,19 @@
+k_final: 10
+k_C_v_tertinggi: 3
+k_hemat: 3
+k_diuji: [3, 4, 5, 6, 8, 10, 12, 15, 20, 25]
+passes: 10
+iterasi: 100
+chunksize: 2000
+alpha: auto
+eta: auto
+seed: 42
+no_below: 10
+no_above: 0.5
+min_token_dokumen: 3
+pertahankan_negasi: False
+jumlah_stopword: 201
+kosakata_akhir: 2230
+ulasan_dipakai: 22899
+ulasan_total: 29603
+c_v_k_final: 0.5209

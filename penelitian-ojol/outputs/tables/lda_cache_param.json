@@ -1,0 +1,13 @@
+{
+ "no_below": 10,
+ "no_above": 0.5,
+ "min_token": 3,
+ "passes": 10,
+ "iterasi": 100,
+ "chunksize": 2000,
+ "n_ulasan": 29603,
+ "n_dipakai": 22899,
+ "kosakata": 2230,
+ "negasi": false,
+ "stopword": "ee3f0e7ff4803217bed2e06ab02885a6"
+}

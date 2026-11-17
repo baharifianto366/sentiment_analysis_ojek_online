@@ -1,0 +1,4 @@
+app,jumlah,tanggal_terlama,tanggal_terbaru,reviewId_duplikat,teks_kosong,status
+Gojek,162742,2024-01-01,2026-10-19,0,1,selesai: 2026-10-21 01:17:58 | alasan: mencapai tanggal mulai (2024-01-01) | jumlah: 162742
+Grab,126451,2024-01-01,2026-10-20,0,0,selesai: 2026-10-21 01:46:11 | alasan: mencapai tanggal mulai (2024-01-01) | jumlah: 126451
+Maxim,230150,2024-01-01,2026-10-19,0,1,selesai: 2026-10-21 00:37:48 | alasan: mencapai tanggal mulai (2024-01-01) | jumlah: 230150

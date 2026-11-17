@@ -1,0 +1,30 @@
+# --- Inti ---
+pandas
+numpy
+scikit-learn
+scipy
+pyarrow
+joblib
+tqdm
+jupyter
+# --- Scraping & pra-pemrosesan ---
+google-play-scraper
+emoji
+Sastrawi
+# --- Visualisasi ---
+matplotlib
+seaborn
+wordcloud
+# --- Topik ---
+gensim
+bertopic
+sentence-transformers
+umap-learn
+hdbscan
+# --- Klasifikasi ---
+imbalanced-learn
+# --- IndoBERT (dipakai di Colab pada Tahap 10; boleh dilewati di lokal) ---
+torch
+transformers
+datasets
+accelerate

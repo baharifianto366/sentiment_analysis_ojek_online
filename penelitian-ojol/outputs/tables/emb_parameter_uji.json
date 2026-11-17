@@ -1,0 +1,25 @@
+{
+  "md5_split": "9293f50b915b740cb7de8786d687febd",
+  "seed": 42,
+  "gensim": "4.4.0",
+  "sklearn": "1.9.1",
+  "dim": 100,
+  "epochs": 5,
+  "window": 5,
+  "min_count": 2,
+  "sg": 1,
+  "negative": 5,
+  "fasttext_ngram": [
+    3,
+    6
+  ],
+  "kernel": "linear",
+  "cv_lipatan": 3,
+  "strategi_terpilih": {
+    "w2v": "bobot_kelas",
+    "ft": "oversampling"
+  },
+  "perwakilan": "w2v",
+  "uji_coba": true,
+  "embedding_dilatih_pada": "data latih saja"
+}

@@ -1,0 +1,3 @@
+metode,n_topik,c_v,diversitas,persen_ulasan_tak_terpetakan,ukuran_topik_median
+"LDA (k=12, inklusif)",12,0.5151,0.967,,
+BERTopic (min_cluster=80),61,0.4845,0.564,32.8,188.0

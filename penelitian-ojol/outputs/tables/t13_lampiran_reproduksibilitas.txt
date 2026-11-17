@@ -1,0 +1,107 @@
+LAMPIRAN REPRODUKSIBILITAS
+dibuat: 2026-11-17 20:39
+
+== 1. Lingkungan ==
+Python: 3.11.9 | Windows-10-10.0.26200-SP0
+SEED: 42
+  pandas: 3.0.6
+  numpy: 2.4.6
+  scipy: 1.17.1
+  scikit-learn: 1.9.1
+  matplotlib: 3.11.2
+  seaborn: 0.13.2
+  gensim: 4.4.0
+  Sastrawi: 1.0.1
+  emoji: 2.16.0
+  bertopic: 0.17.4
+  sentence-transformers: 6.1.0
+  umap-learn: 0.5.12
+  hdbscan: 0.8.44
+  wordcloud: 1.9.6
+  openpyxl: 3.1.5
+  joblib: 1.6.0
+  google-play-scraper: 1.2.7
+  torch: 2.14.1
+  transformers: 5.20.1
+
+== 2. Pembagian data (tidak boleh berubah) ==
+md5 split.csv: 9293f50b915b740cb7de8786d687febd
+  cocok dengan split_info.json: YA
+  emb_parameter.json: md5 cocok
+  emb_parameter_uji.json: md5 cocok
+  indobert_parameter.json: md5 cocok
+  tfidf_parameter.json: md5 cocok
+  tfidf_parameter_uji.json: md5 cocok
+
+== 3. Jumlah data (dibandingkan dengan angka acuan hasil tahap sebelumnya) ==
+  ulasan_berlabel: 29,603
+  train: 23,682
+  val: 2,960
+  test: 2,961
+  label_final: {'positif': 17172, 'negatif': 10963, 'netral': 1468}
+  per aplikasi: {'Gojek': 9917, 'Grab': 9869, 'Maxim': 9817}
+
+== 4. Kelengkapan bahan per bagian laporan ==
+[Data dan pra-pemrosesan]
+   OK (1): data/processed/ulasan_berlabel.csv
+   OK (1): data/splits/split.csv
+   OK (1): data/splits/split_info.json
+[Validasi label (Tahap 3)]
+   OK (1): outputs/tables/kappa_validasi.csv
+   OK (1): outputs/tables/ketidaksesuaian_label.csv
+   OK (1): outputs/tables/contoh_ketidaksesuaian.csv
+[EDA (Tahap 4; nama file tebakan)]
+   OK (12): outputs/tables/eda_*.csv
+   OK (7): outputs/figures/eda_*.png
+[LDA (Tahap 5)]
+   OK (1): outputs/tables/lda_topik_k12_inklusif.csv
+   OK (1): outputs/tables/lda_penamaan_topik_k12_inklusif.csv
+   OK (1): outputs/tables/lda_topik_dokumen_k12_inklusif.csv
+[BERTopic (Tahap 6)]
+   OK (6): outputs/tables/bertopic_topik*.csv
+   OK (2): outputs/tables/bertopic_penamaan*.csv
+   OK (2): outputs/tables/perbandingan_lda_bertopic*.csv
+[Klasifikasi (Tahap 8-10)]
+   OK (16): outputs/tables/tfidf_*.csv
+   OK (16): outputs/tables/emb_*.csv
+   OK (6): outputs/tables/indobert_*.csv
+   OK (1): outputs/predictions/indobert_test.csv
+[Evaluasi (Tahap 11)]
+   OK (1): outputs/tables/evaluasi_perbandingan_model.csv
+   OK (1): outputs/tables/evaluasi_uji_berpasangan.csv
+   OK (1): outputs/tables/evaluasi_per_aplikasi.csv
+   OK (1): outputs/tables/evaluasi_ketahanan.csv
+   OK (1): outputs/tables/evaluasi_pasangan_kesalahan.csv
+   OK (1): outputs/tables/evaluasi_ringkasan.txt
+   OK (1): outputs/tables/evaluasi_kesalahan_per_ulasan.csv
+   OK (3): outputs/figures/evaluasi_*.png
+[12A sentimen per aplikasi]
+   OK (1): outputs/tables/t12a_sentimen_app_sampel.csv
+   OK (1): outputs/tables/t12a_selisih_antar_app.csv
+   OK (1): outputs/tables/t12a_sentimen_app_populasi_semua.csv
+   OK (1): outputs/tables/t12a_sentimen_app_populasi_min3kata_unik.csv
+   OK (1): outputs/tables/t12a_tren_bulanan_negatif.csv
+   OK (1): outputs/tables/t12a_tren_tahunan.csv
+   OK (2): outputs/figures/t12a_*.png
+[12B sentimen per topik]
+   OK (1): outputs/tables/pemetaan_topik_aspek.csv
+   OK (1): outputs/tables/t12b_lda_sentimen_dalam_topik.csv
+   OK (1): outputs/tables/t12b_lda_komposisi_dalam_negatif.csv
+   OK (2): outputs/tables/t12b_bertopic*_sentimen_dalam_topik.csv
+   OK (1): outputs/tables/t12b_keamanan_kata_kunci.csv
+   OK (6): outputs/figures/t12b_*.png
+[12C analisis kesalahan]
+   OK (1): outputs/tables/t12c_kelompok_kesalahan.csv
+   OK (1): outputs/tables/t12c_pola_kesalahan.csv
+   OK (1): outputs/tables/t12c_galat_per_dimensi.csv
+   OK (1): outputs/tables/t12c_semua_salah_menurut_label_rating.csv
+   OK (1): outputs/tables/t12c_rekap_pengodean.csv
+   OK (1): outputs/tables/t12c_contoh_per_kategori.csv
+-> Semua bahan ada.
+
+== 5. Isian manual yang menentukan angka laporan ==
+  pemetaan_topik_aspek.csv: 73 topik; nama_manual kosong: 0; kategori_aspek kosong: 0
+  pengodean kesalahan: kode_1 terisi 94/120; kode_penilai2 terisi 95 (minimal 30 untuk kappa)
+
+== 6. Daftar file ==
+  400 file (rincian di t13_daftar_file.csv)

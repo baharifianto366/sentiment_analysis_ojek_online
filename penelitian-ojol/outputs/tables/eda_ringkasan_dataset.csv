@@ -1,0 +1,4 @@
+app,jumlah,tanggal_awal,tanggal_akhir,rating_rata2,rating_median,kata_median,thumbs_up_rata2
+Gojek,9917,2024-01-01,2026-10-19,2.952,3.0,10.0,2.157
+Grab,9869,2024-01-01,2026-10-19,3.272,4.0,8.0,2.774
+Maxim,9817,2024-01-01,2026-10-19,4.083,5.0,6.0,0.604

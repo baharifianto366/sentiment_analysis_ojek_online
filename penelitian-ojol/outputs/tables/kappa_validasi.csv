@@ -1,0 +1,16 @@
+metrik,nilai
+n_validasi,504.0
+kesepakatan_teramati,0.8392857142857143
+kappa,0.7302836303093969
+kappa_ci_bawah,0.6724951295274899
+kappa_ci_atas,0.7797526672182272
+kappa_linear,0.81515839251659
+kappa_linear_ci_bawah,0.7693245502848648
+kappa_linear_ci_atas,0.8523818080992638
+sengketa_antar_penilai,81.0
+ragu_penilai1,21.0
+ragu_penilai2,5.0
+tak_sesuai_sampel,0.36507936507936506
+tak_sesuai_estimasi_populasi,0.17911915298159936
+tak_sesuai_ci_bawah,0.14105364873181184
+tak_sesuai_ci_atas,0.21718465723138689

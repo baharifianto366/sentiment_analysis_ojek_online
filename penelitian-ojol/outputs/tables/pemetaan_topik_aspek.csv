@@ -1,0 +1,74 @@
+﻿model,topik,nama_manual,kategori_aspek
+lda,0,Pelayanan baik & memuaskan,Pelayanan & customer service
+lda,1,Keterlambatan pesanan makanan,Makanan & pengiriman
+lda,2,"Sulit dapat driver, driver jauh & cancel",Ketersediaan driver
+lda,3,Masalah isi saldo dan layanan Customer Service,Pembayaran & saldo
+lda,4,"Perjalanan cepat, tepat waktu, membantu & nyaman",Kecepatan & ketepatan waktu
+lda,5,Masalah login/akun & pembayaran,Akun & aplikasi (teknis/fitur)
+lda,6,"Campuran (kendaraan, cara bawa, pinjaman)",Noise/campuran
+lda,7,Teks otomatis (noise),Noise/campuran
+lda,8,Akurasi maps & titik lokasi,Peta & lokasi
+lda,9,"Harga mahal, ongkir & biaya penanganan",Harga & promo
+lda,10,Driver ramah & sopan,Driver (sikap & perilaku)
+lda,11,"Iklan mengganggu, update & error aplikasi",Akun & aplikasi (teknis/fitur)
+bertopic,0,Lama dapat driver & sulit membatalkan pesanan,Ketersediaan driver
+bertopic,1,Ulasan campuran (suka & keluhan umum),Noise/campuran
+bertopic,2,"Kepuasan umum: baik, ramah, sopan",Driver (sikap & perilaku)
+bertopic,3,Manfaat aplikasi vs error/lemot,Akun & aplikasi (teknis/fitur)
+bertopic,4,Terima kasih & doa untuk driver,Driver (sikap & perilaku)
+bertopic,5,Pelayanan baik & memuaskan,Pelayanan & customer service
+bertopic,6,Masalah pembayaran & saldo,Pembayaran & saldo
+bertopic,7,Aplikasi membantu kebutuhan sehari-hari,Manfaat & kepuasan umum
+bertopic,8,Tarif murah & terjangkau,Harga & promo
+bertopic,9,"Masalah akun, login & OTP",Akun & aplikasi (teknis/fitur)
+bertopic,10,"Respons cepat, tepat & akurat",Kecepatan & ketepatan waktu
+bertopic,11,Akurasi maps & titik jemput,Peta & lokasi
+bertopic,12,Iklan mengganggu,Akun & aplikasi (teknis/fitur)
+bertopic,13,Driver sopan & ramah,Driver (sikap & perilaku)
+bertopic,14,Layanan pesan antar makanan,Makanan & pengiriman
+bertopic,15,Aplikasi memudahkan perjalanan,Manfaat & kepuasan umum
+bertopic,16,Perilaku driver (campuran),Driver (sikap & perilaku)
+bertopic,17,"Driver sulit didapat, jauh & minta cancel",Ketersediaan driver
+bertopic,18,Promo banyak & menarik,Harga & promo
+bertopic,19,Tarif mahal & denda,Harga & promo
+bertopic,20,Maps & rute driver tidak akurat,Peta & lokasi
+bertopic,21,Ongkir mahal (food/mart),Harga & promo
+bertopic,22,Sulit dapat driver saat hujan,Ketersediaan driver
+bertopic,23,Update aplikasi yang memaksa,Akun & aplikasi (teknis/fitur)
+bertopic,24,"Mudah, simpel & praktis",Manfaat & kepuasan umum
+bertopic,25,Driver ramah & baik,Driver (sikap & perilaku)
+bertopic,26,Tepat waktu & penjemputan,Kecepatan & ketepatan waktu
+bertopic,27,Sarana transportasi yang membantu,Manfaat & kepuasan umum
+bertopic,28,Aplikasi transportasi online bermanfaat,Manfaat & kepuasan umum
+bertopic,29,Pelayanan baik & terima kasih,Pelayanan & customer service
+bertopic,30,Terbaik & termurah,Manfaat & kepuasan umum
+bertopic,31,Mobil bersih & nyaman,Kenyamanan & keamanan
+bertopic,32,Diskon (minta diperbanyak),Harga & promo
+bertopic,33,Cara bawa motor nyaman & aman,Kenyamanan & keamanan
+bertopic,34,Pelayanan & driver ramah,Pelayanan & customer service
+bertopic,35,Pengiriman & kurir cepat,Makanan & pengiriman
+bertopic,36,Driver baik,Driver (sikap & perilaku)
+bertopic,37,Abang driver baik & sabar,Driver (sikap & perilaku)
+bertopic,38,Semangat & dukungan untuk driver,Driver (sikap & perilaku)
+bertopic,39,Pelayanan cepat & tanggap,Pelayanan & customer service
+bertopic,40,Driver cepat & ramah,Driver (sikap & perilaku)
+bertopic,41,Pemberian bintang/rating,Noise/campuran
+bertopic,42,Perjalanan nyaman & santai,Kenyamanan & keamanan
+bertopic,43,Sulit menemukan alamat,Peta & lokasi
+bertopic,44,"Aman, nyaman & selamat sampai tujuan",Kenyamanan & keamanan
+bertopic,45,Titik lokasi penjemputan tidak akurat,Peta & lokasi
+bertopic,46,Doa untuk bapak driver,Driver (sikap & perilaku)
+bertopic,47,Terbantu & terima kasih,Manfaat & kepuasan umum
+bertopic,48,"Gangguan jaringan, koneksi & lemot",Akun & aplikasi (teknis/fitur)
+bertopic,49,Teks otomatis (noise),Noise/campuran
+bertopic,50,Perjalanan nyaman & lancar,Kenyamanan & keamanan
+bertopic,51,Cara berkendara aman & nyaman,Kenyamanan & keamanan
+bertopic,52,Voucher & diskon tidak bisa dipakai,Harga & promo
+bertopic,53,Respons cepat & komunikatif,Kecepatan & ketepatan waktu
+bertopic,54,Customer service & komplain,Pelayanan & customer service
+bertopic,55,Kepuasan pelanggan (permintaan pertahankan layanan),Pelayanan & customer service
+bertopic,56,Perbandingan harga dengan kompetitor,Harga & promo
+bertopic,57,Pembatalan & masalah pesanan makanan,Makanan & pengiriman
+bertopic,58,Lama mencari driver,Ketersediaan driver
+bertopic,59,Good job & profesional,Driver (sikap & perilaku)
+bertopic,60,Tepat waktu & ramah,Kecepatan & ketepatan waktu

@@ -1,0 +1,3 @@
+tag,strategi,lr,seed,epoch_terbaik,val_f1_macro,ckpt
+bobot_kelas_lr2e-05_s42,bobot_kelas,2e-05,42,2,0.6657110409784339,/content/ckpt_bobot_kelas_lr2e-05_s42.pt
+oversampling_lr2e-05_s42,oversampling,2e-05,42,1,0.6609331280107135,/content/ckpt_oversampling_lr2e-05_s42.pt

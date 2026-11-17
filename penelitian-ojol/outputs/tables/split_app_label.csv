@@ -1,0 +1,10 @@
+split,app,negatif,netral,positif
+test,Gojek,487,54,452
+test,Grab,403,56,528
+test,Maxim,207,36,738
+train,Gojek,3890,433,3610
+train,Grab,3222,451,4222
+train,Maxim,1658,291,5905
+val,Gojek,486,54,451
+val,Grab,403,56,528
+val,Maxim,207,37,738

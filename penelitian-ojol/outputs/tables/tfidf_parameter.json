@@ -1,0 +1,14 @@
+{
+  "md5_split": "9293f50b915b740cb7de8786d687febd",
+  "seed": 42,
+  "sklearn": "1.9.1",
+  "tfidf": "ngram (1,2), min_df dituning, max_df 0.95, sublinear_tf",
+  "teks": "teks_bersih",
+  "cv_lipatan": 5,
+  "skor_cv": "f1_macro",
+  "strategi_terpilih": {
+    "svm": "oversampling",
+    "nb": "oversampling"
+  },
+  "uji_coba": false
+}
